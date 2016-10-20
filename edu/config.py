@@ -20,4 +20,16 @@ all_data = {
         "CClink": "https://www.flickr.com/photos/taymtaym/",
         "CCname": "taymtaym",
     },
+    "emma": {
+        "persona_name": "Emma Name",
+        "label": "My subtitle",
+        "persona_description": """hi there.""",
+
+        "persona_belonging" : "Outsider",
+        "persona_image" : "https://c1.staticflickr.com/3/2935/13505119194_173b2548f1_b.jpg",
+        "persona_qualities_layout": "lurkinglucinda",
+        "CCtitle": "Steampunk Fest Roma 2014",
+        "CClink": "https://www.flickr.com/photos/taymtaym/",
+        "CCname": "taymtaym",
+    },
 }
