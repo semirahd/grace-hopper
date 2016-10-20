@@ -20,5 +20,5 @@ from edu.views import personas
 
 urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
-    url(r'^$', personas, name='personas')
+    url(r'^personas/(?P<user>[\w-]+)/$', personas, name='personas')
 ]
